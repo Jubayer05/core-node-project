@@ -1,0 +1,18 @@
+{
+  "requireConfig": true,
+  "semi": true,
+  "singleQuote": true,
+  "trailingComma": "es5",
+  "jsxBracketSameLine": true,
+  "overrides": [
+    {
+      "files": "*.md",
+      "options": {
+        "proseWrap": "always",
+        "singleQuote": false
+      }
+    }
+  ],
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css"
+}

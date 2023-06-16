@@ -10,7 +10,7 @@
   "rules": {
     "no-console": 0,
     "indent": 0,
-    "linebreak-style": ["error", "unix"],
+    // "linebreak-style": ["error", "unix"],
     "prettier/prettier": [
       "error",
       {
